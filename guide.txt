@@ -1,0 +1,26 @@
+git
+node
+npm
+ctrl+`
+1 cmd 
+2 node -v for vesion
+3 npm -v for npn version
+4 npn install -g firebase-tools
+5 firebase login
+6 Y
+7 firebase init
+8 firebase deploy
+9 fore base open
+firebase.google.com
+login
+new prroject
+copy code from page
+paste it before </html> and after body
+ go to hosting in firebase
+install tool in git
+then continue the firebase
+firebase login-- interactive
+allow
+firebase init
+selet hosting option by space button
+select project
